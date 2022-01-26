@@ -6,9 +6,9 @@ subtitle:  Integrated Physics student @ IIT Roorkee
 
 profile:
   align: right
-  image: me.jpg
-  address: >
-     <p>Govind Bhavan <br/> Opp.Department of Physics, IIT Roorkee</p>
+  #image: myself.jpg
+  #address: >
+   #  <p>Govind Bhavan <br/> Opp.Department of Physics, IIT Roorkee</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -24,13 +24,5 @@ I'm a 4th year undergraduate student at the <a href="https://ph.iitr.ac.in/depar
 <p> <b> I'm currently working in cosmology under <a href="https://www.ststephens.edu/department-of-physics/dr-geetanjali-sethi/">Dr.Geetanjali Sethi</a> and on fluid dynamics under <a href="https://www.iitr.ac.in/~MA/Ameeya__Kumar_Nayak">Prof. Ameeya K. Nayak</a>.</b>
 
 <p align="justify"> During my last three years, I was lucky enough to get selected for <a href="https://web-japps.ias.ac.in:8443/fellowship2020/lists/result.jsp">IAS SRFP 2020</a>, <a href="https://www.hbcse.tifr.res.in/data/national-initiative-on-undergraduate-sciences-nius">NIUS 2019</a> through which I was fortunate to work under <a href="http://chep.iisc.ac.in/Personnel/pages/jyothsna/index.html">Prof.Jyothsna R Komaragiri, <a href="https://scholar.google.co.in/citations?user=UOV5qTsAAAAJ&hl=en">Prof. Anwesh Mazumdar</a>. Refer to [<a href="/vanshaj-kerni/projects/">Research page</a>] for detailed description of the work. <br/> I'm also very grateful to all my professors for taking out there time to write recommendations on my behalf for the multitude of research internships and programs I have applied for. 
-
-<p align="justify">
-Apart from academics, I am fond of new technology, space travel, sci-fi movies, travelling and exploring new places. I love music with a particular liking for Indian Classical and old romantic songs—I am also a beginner flautist who desires to learn saxophone and other wind instruments.
-</p>
-
-<p align="justify">
-I also spend time in science promoting activites. I am involved with the <a href="https://iaac.space/en/">International Astronomy and Astrophysics Competition</a> as their official <a href="https://iaac.space/en/vankerni">Indian Ambassador</a> promoting astronomy and astrophysics to young talents. I am also involved with the <a href="https://www.facebook.com/physastroclubiitr/">Physics and Astronomy Club IIT Roorkee</a>, organising multiple events and programs for promoting physics and astronomy in and around IIT Roorkee.
-</p>
 
 <blockquote> nature has not divided itself into different semesters -- <a href="http://www.iucaa.in/~paddy/">Paddy</a> </blockquote>
