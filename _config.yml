@@ -233,10 +233,9 @@ scholar:
 # -----------------------------------------------------------------------------
 
 imagemagick:
-  enabled: false
+  enabled: true
   widths:
-    - 480
-    - 800
+    - 540 
     - 1400
   input_directories:
     - assets/img/
