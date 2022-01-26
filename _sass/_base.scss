@@ -33,6 +33,14 @@ figure, img {
   max-width: 90vw;
 }
 
+.img_mod{
+  border-radius: 70%;
+
+  @media (max-width: 576px){
+    
+  }
+}
+
 blockquote {
   background: var(--global-bg-color);
   border-left: 2px solid var(--global-theme-color);

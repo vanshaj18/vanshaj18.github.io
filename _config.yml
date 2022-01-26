@@ -235,7 +235,7 @@ scholar:
 imagemagick:
   enabled: true
   widths:
-    - 540 
+    - 540
     - 1400
   input_directories:
     - assets/img/
