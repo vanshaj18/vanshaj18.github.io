@@ -7,6 +7,9 @@ title: Bio
 nav: true
 ---
 
+
+<p align="justify"> During my last three years, I was lucky enough to get selected for <a href="https://web-japps.ias.ac.in:8443/fellowship2020/lists/result.jsp">IAS SRFP 2020</a>, <a href="https://www.hbcse.tifr.res.in/data/national-initiative-on-undergraduate-sciences-nius">NIUS 2019</a> through which I was fortunate to work under <a href="http://chep.iisc.ac.in/Personnel/pages/jyothsna/index.html">Prof.Jyothsna R Komaragiri, <a href="https://scholar.google.co.in/citations?user=UOV5qTsAAAAJ&hl=en">Prof. Anwesh Mazumdar</a>. Refer to [<a href="/vanshaj-kerni/projects/">Research page</a>] for detailed description of the work. <br/> I'm also very grateful to all my professors for taking out there time to write recommendations on my behalf for the multitude of research internships and programs I have applied for. 
+
 <p align="justify">
 Apart from academics, I am fond of new technology, space travel, sci-fi movies, travelling and exploring new places. I love music with a particular liking for Indian Classical and old romantic songs—I am also a beginner flautist who desires to learn saxophone and other wind instruments.
 </p>
