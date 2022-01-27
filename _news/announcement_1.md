@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-1-26
 inline: true
 ---
 
-A simple inline announcement.
+<a href="https://www.quantamagazine.org/researchers-build-ai-that-builds-ai-20220125/">An AI build another AI </a>
