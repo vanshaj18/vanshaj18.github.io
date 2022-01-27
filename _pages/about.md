@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle:  Integrated Physics student 🧑‍🔬 @ IIT Roorkee
+subtitle:  Integrated Physics student @ IIT Roorkee
 
 profile:
   align: right 
