@@ -86,6 +86,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 blog_name: Links  # your blog must have a name for it to show up in the nav bar
 blog_description: a smorgasbord of links about physics, maths, music, life and more.
 #permalink: /blog/:year/:title/
+Resume_link: https://github.com/vanshaj18/vanshaj18.github.io/raw/master/assets/pdf/CV.pdf #add the link to your cv
 
 
 # Pagination
