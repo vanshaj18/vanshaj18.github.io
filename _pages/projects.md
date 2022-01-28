@@ -62,7 +62,7 @@ nav: true
 
 
 <div>
-   <h5><b>Nuclear aspect of Astrophyics</b></h5>
+   <h5><b>Nuclear aspect of Astrophysics</b></h5>
    <p align="justify">
      Astrophysics is a multi-discipline area of research that requires grasping every significant concept in physics, from particle physics to fluid dynamics to quantum physics and gravitation. Nucleosynthesis is the formation of elements in the hot stellar stoves where temperatures are of the order of Million Kelvins. Every star begins its lifecycle from the ZAMS (zero-age-main-sequence) position in the HR (Hertzsprung–Russell) diagram, evolving in many possible paths determined by its initial birth mass. A massive star begins up high in the HR diagram, evolve fast and dye spectacularly in the form of supernovas. In contrast, a low mass star starts in the lower position, evolve in an almost everlasting time frame and ends in the smallest possible "spheres". The element formation in the stars is dependent on the core temperature and therefore are many in number, namely  <i>pp-cycle</i>, <i>CNO-cycle</i>, <i>r-process</i>, <i>p-process</i>, <i>s-process</i>. My first undergrad project involved reviewing <a href="https://arxiv.org/pdf/0911.3965.pdf">previous works</a> on stellar evolution, element formation processes, and general academic research.
    </p>
