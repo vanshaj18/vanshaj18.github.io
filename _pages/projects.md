@@ -22,7 +22,7 @@ nav: true
     One of the most interesting and poorly understood binary systems are the Ultra-Compact X-Ray binary (UCXB) system. Low Mass X-Ray Binary Systems (LMXB) subsets consist of an accretor and a donor star. Their possible configurations can be White Dwarfs(WD) or He stars as donors and NS/BH as their accretors with an orbital period of less than 80 minutes. UCXBs are essential objects that have attracted the attention of researchers across the world. UCXBs serve as laboratories for studying the physical mechanisms of accretion and the nature of compact objects in close proximity. In this work, we analysed the observational and stellar parameters of the Ultra-Compact X-Ray binary OGLE-UCXB-01, primarily following <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ac06a7">http://dx.doi.org/10.3847/1538-4357/ac06a7</a>, to better understand how these systems work.
   </p> 
   <p>
-   <u>Relevant publication</u>: A.Rawat, A.Mandal, A.Dattamunsi, S.Bhargavi, N.Ziyad, P.Kumar, B.Priyanka, R.Venugopal, S.MadhuSudhan, <b>V.Kerni</b>:<a href="https://www.researchgate.net/publication/356442258_Analysis_of_Stellar_Parameters_of_Ultra_Compact_X-Ray_Binary-OGLE-UCXB-01"> <i>Analysis of Stellar Parameters of Ultra Compact X-Ray Binary-OGLE-UCXB-01</i></a>
+   <u>Relevant publication</u>: A.Rawat, A.Mandal, A.Dattamunsi, S.Bhargavi, N.Ziyad, P.Kumar, B.Priyanka, R.Venugopal, S.MadhuSudhan, <b>V.Kerni</b>:<a href="https://www.researchgate.net/publication/356442258_Analysis_of_Stellar_Parameters_of_Ultra_Compact_X-Ray_Binary-OGLE-UCXB-01"> <i>Analysis of Stellar Parameters of Ultra Compact X-Ray Binary-OGLE-UCXB-01 [researchgate]</i></a>
    
    </p>
 </div>
@@ -55,7 +55,7 @@ nav: true
     <p align="justify">
       <a href="https://en.wikipedia.org/wiki/Asteroseismology">Asteroseismology</a> is the study of the oscillations occuring inside a star by analysing the periodicity of the luminosity variations which leads to inferences about the internal structre of star which is otherwise beyound the scope of obervational astronomy. For a non-technical reader, as analogus to seismic oscillations or earthquakes on Earth, a star also experiences "quakes" or "oscillations" where different modes of oscillations occurs depending on the position inside the star, namely <i>P</i>, <i>G</i>, <i>F</i>, <i> Mixed</i> modes occurs inside the star. My work in the undergraduate project involed learning the asteroseismology theory and data analysis and reduction techniques used in the field by validating the theoretical framework, mainly following <a href="https://phys.au.dk/~jcd/evolnotes/LN_stellar_structure.pdf">Stellar Structure and Evolution</a> for theory and <a href="https://press.princeton.edu/books/hardcover/9780691162928/asteroseismic-data-analysis">Asteroseismic data analysis</a> for data analysis.
     </p>
-    <p><u>Relevant publications</u>: <b>V.Kerni</b> and A.Mazumdar. <a href="http://dx.doi.org/10.13140/RG.2.2.34485.40161"><i>Asteroseismology of Solar Type Stars</i></a>.</p>
+    <p><u>Relevant publications</u>: <b>V.Kerni</b> and A.Mazumdar. <a href="http://dx.doi.org/10.13140/RG.2.2.34485.40161"><i>Asteroseismology of Solar Type Stars [researchgate]</i></a>.</p>
 </div>
 <br>
 <hr>
