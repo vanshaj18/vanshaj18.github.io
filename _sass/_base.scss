@@ -34,7 +34,9 @@ figure, img {
 }
 
 .profile-circular{
-  border-radius: 90%;
+  border-radius: 50%;
+  font-size: 10px;
+  text-align: center;
 
   @media only screen and (max-width: 576px){
     max-width: 30vw;
