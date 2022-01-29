@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/
 title: Research
-description: If we knew what we were doing, it won't be called research---Einstein
+description: <blockquote> If we knew what we were doing, it won't be called research ― A.Einstein</blockquote>
 nav: true
 #display_categories: [mywork, fun]
 ---

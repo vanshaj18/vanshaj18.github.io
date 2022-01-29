@@ -236,8 +236,10 @@ scholar:
 imagemagick:
   enabled: true
   widths:
+    - 200 
     - 400
-    - 576
+    - 600
+    - 800
     - 1000
   input_directories:
     - assets/img/
@@ -247,7 +249,7 @@ imagemagick:
     - ".png"
     - ".tiff"
   output_formats:
-    webp: "-quality 15%"
+    webp: "-quality 45%"
 
 # -----------------------------------------------------------------------------
 # Jekyll Diagrams
