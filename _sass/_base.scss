@@ -397,8 +397,12 @@ footer.sticky-bottom {
 }
 
 // about me
-#bio_anim{
-  animation: floating 4s ease-in-out
+#bio_anim, #projects{
+  animation: floating 4s ease-in-out;
+
+  @media (max-width: 576px){
+    font-size: 14px;
+  }
 }
 @-webkit-keyframes floating {
     0% { transform: translate(-100px,  0px); }

@@ -6,7 +6,7 @@ description: <blockquote> If we knew what we were doing, it won't be called rese
 nav: true
 #display_categories: [mywork, fun]
 ---
-
+<div id="projects">
 <p> 
   <b> Currently working in cosmological void evolution for dark matter constraint under <a href="https://www.ststephens.edu/department-of-physics/dr-geetanjali-sethi/">Dr.Geetanjali Sethi</a> and on fluid flow in stenosed regions under <a href="https://www.iitr.ac.in/~MA/Ameeya__Kumar_Nayak">Prof. Ameeya K. Nayak</a>.</b> </p>
 <hr>
