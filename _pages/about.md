@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 Hello! नमस्ते (Namaste) <br>Welcome to my webspace. 
-<p> I'm a 4th year undergraduate student at the <a href="https://ph.iitr.ac.in/departments/PH/pages/index.html">Department of Physics</a>, <a href="https://new.iitr.ac.in/">Indian Institute of Technology Roorkee</a> majoring in physics and mathematics. <br> <br> A curious learner interested in new developments in the field of physics and science. I love to think about possible solutions to problems in science and society, developing ideas to generate new keys using existing ones. I'm a quick learner, open to learning new areas & tools to understand the universe more clearly... <i>taking step a bit by bit.</i></p>
+<p> I'm a 4th year undergraduate student at the <a href="https://ph.iitr.ac.in/departments/PH/pages/index.html">Department of Physics</a>, <a href="https://new.iitr.ac.in/">Indian Institute of Technology Roorkee</a> majoring in physics. <br> <br> A curious learner interested in new developments in the field of physics and science. I love to think about possible solutions to problems in science and society, developing ideas to generate new keys using existing ones. I'm a quick learner, open to learning new areas & tools to understand the universe more clearly... <i>taking step a bit by bit.</i></p>
 
 <div class="row justify-content-sm">
     <div class="col-sm-6  mt-3 mt-md-0">
