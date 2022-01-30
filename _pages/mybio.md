@@ -16,7 +16,7 @@ profile:
   I was born in the small town of Udhampur in Jammu and Kashmir, where I spent my early school days learning and playing with friends, and then my family moved to the <a href="https://jammu.nic.in/">city of Jammu</a>, where I did my high schooling and prepared for the IIT exam. I was always curious about our meaning in the universe; science shows were my all-time favourite and led me to my current interests in physics, astrophysics, and space technology. I always loved Sci-fi movies, with Interstellar being on top of my list.
 </p></div>
 
-<p>My major interests is in astrophysics, cosmology and particle physics and am additionally interested in  fluid dynamics, general physics, numerical methods and algorithms like ML, Quantum Computing for their usefulness in these domains. </p> 
+<p>My primary interests are in astrophysics, cosmology and particle physics. I am additionally interested in fluid dynamics, general physics, numerical methods and algorithms like ML, Quantum Computing for their usefulness in these domains. </p> 
 
 <p> During the year 2019, 2020, I got selected for <a href="https://web-japps.ias.ac.in:8443/fellowship2020/lists/result.jsp">IAS SRFP 2020</a>, <a href="https://www.hbcse.tifr.res.in/data/national-initiative-on-undergraduate-sciences-nius">NIUS 2019</a> through which I was fortunate to work under <a href="http://chep.iisc.ac.in/Personnel/pages/jyothsna/index.html">Prof.Jyothsna R Komaragiri, <a href="https://scholar.google.co.in/citations?user=UOV5qTsAAAAJ&hl=en">Prof. Anwesh Mazumdar</a> on particle physics simulation and asteroseismology respectively. Refer to [<a href="/vanshaj-kerni/projects/">Research page</a>] for detailed description of the work.</p>
 
