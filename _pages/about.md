@@ -24,6 +24,6 @@ Hello! नमस्ते (Namaste) <br>Welcome to my webspace.
     </div>
 </div>
 
-<p class="header-bar"> I'm very grateful to all my professors for taking out there time to write recommendations on my behalf for the multitude of research internships and programs I have applied for.</p>
+<p class="header-bar"> I'm very grateful to all my professors for taking out their time to write recommendations on my behalf for the multitude of research internships and programs I have applied for.</p>
 
 <blockquote> We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the Universe. That makes us something very special. ― Stephen Hawking </blockquote>
