@@ -7,8 +7,8 @@ subtitle:  Integrated Physics student @ IIT Roorkee
 profile:
   align: right 
   image: myself_04.JPG
-  address: >
-    <p class="profile-circular"> taken by my friend parth</p>
+  # address: >
+  #   <p class="profile-circular"> taken by my friend parth</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
