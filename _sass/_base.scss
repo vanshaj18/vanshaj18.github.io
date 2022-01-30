@@ -396,14 +396,14 @@ footer.sticky-bottom {
   }
 }
 
-// // about me
-// #bio_anim{
-//   animation: floating 4s ease-in-out
-// }
-// @-webkit-keyframes floating {
-//     0% { transform: translate(-100px,  0px); }
-//     50%  { transform: translate(0px, 0px); }
-// }
+// about me
+#bio_anim{
+  animation: floating 4s ease-in-out
+}
+@-webkit-keyframes floating {
+    0% { transform: translate(-100px,  0px); }
+    50%  { transform: translate(0px, 0px); }
+}
 
 
 // Distill
