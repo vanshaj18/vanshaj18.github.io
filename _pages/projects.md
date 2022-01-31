@@ -33,17 +33,6 @@ nav: true
 <hr>
 
 <div>
-   <h5><b>Particle simulation on Geant4</b></h5>
-   <p align="justify">
-   <a href="https://phy.princeton.edu/research/research-areas/particle-phenomenology#:~:text=Particle%20physics%20phenomenology%20is%20the,of%20Nature%20and%20their%20interactions.&text=In%20addition%2C%20they%20are%20developing,Collider%20and%20fixed%2Dtarget%20experiments.">Particle Physics Phenomenology</a> is the field where one tries to understand the fundamental interactions of particles of nature. Particle phenomenology bridges the high energy experiment with the theoretical understanding of the interaction. It, therefore, provides a basis for validating the theoretical predictions about the interaction processes. We need tools to simulate the theoretical predictions to work on validation efficiently. For this very reason, a Monte-Carlo based simulation toolkit, the Geant4 project, was initiated in the context of the CERN RD44 R&D project as a worldwide collaboration. Geant4 is a multi-purpose toolkit to explore the nature of collisions and energy loss of particles. It is used in fields where particle interaction is required, ranging from high energy physics to medical physics and space physics research. The physics component offers various simulations packages and tools to study the processes involved. The work used the electromagnetic package to verify the Bethe-Bloch energy loss formula for charged particles developed mainly by Hans Bethe and analyse the extent of its validity.
-   </p>
-   <p>
-    <u>Relevant publication:</u> <b>V.Kerni</b>, J.Komaragiri: <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rkSVigQAAAAJ&authuser=1&citation_for_view=rkSVigQAAAAJ:d1gkVwhDpl0C"><i>Verification of Bethe-Bloch formula using Geant4 toolkit [arXiv:hep-ph]</i></a></p>
-</div>
-<br>
-<hr>
-
-<div>
    <h5><b>Fluid flow in microsize channels</b></h5>
    <p align="justify">
      Microfluidic technology has seen a tremendous growth in past couple of years. The reason being its coverage in manipulating fluid and species flow in small volumes. Research on new materials have given a new boost to such domains and now such devices are becoming common in diagnostics due to their long-range benefits. These devices are inexpensive, portable, and disposable, thus highly useful in health care systems. These are now becoming popular in research and clinical applications, including biosensing, drug development, and chemical synthesis. Clinical application useage such as <a href="https://www.mdpi.com/2306-5354/8/7/94/pdf#:~:text=The%20standard%20separation%20process%20is,into%20the%20microfluidic%20sensing%20platform.">plasma seperation</a> are essentially dependent on proper understanding of blood flow in the micro domains. </p> <p>Theoretical models on blood flow have highlighted the impact of arterial diameter to blood flow. However, only a few actual testing of these ideas have been recorded. A systematic study on factors characterising essential attributes of the blood is still lacking in the field despite their tremendous applications in the health care systems. Our work considers an incompressible Navier Stokes equations with a power-law model to study blood flow velocity in two dimensions. We modelled the stenosed section as a simple compression and expansion region in a rectangular capillary. Our work, an expansion of <a href="https://pubmed.ncbi.nlm.nih.gov/23856409/">previous works</a>, has obtained important dependence among such factors.
@@ -52,7 +41,17 @@ nav: true
       <u>Relevant publication</u>: <b> Vanshaj Kerni </b>, M.Majhi, A.K.Nayak - <i>Flow characteristics and platelet adhesion of blood flow in a corrugated microchannel with the reduction and extension of shear effects. </i> <br>Procedings of the 26th National & 4th International ISHMT-ASTFE Heat and Mass Transfer. <a href="https://drive.google.com/file/d/1sW530un5sLYg1d5UkEl8LOHEbk0CKx7W/view">Conference presentation</a>
      </p>
 </div>
+<br>
+<hr>
 
+<div>
+   <h5><b>Particle simulation on Geant4</b></h5>
+   <p align="justify">
+   <a href="https://phy.princeton.edu/research/research-areas/particle-phenomenology#:~:text=Particle%20physics%20phenomenology%20is%20the,of%20Nature%20and%20their%20interactions.&text=In%20addition%2C%20they%20are%20developing,Collider%20and%20fixed%2Dtarget%20experiments.">Particle Physics Phenomenology</a> is the field where one tries to understand the fundamental interactions of particles of nature. Particle phenomenology bridges the high energy experiment with the theoretical understanding of the interaction. It, therefore, provides a basis for validating the theoretical predictions about the interaction processes. We need tools to simulate the theoretical predictions to work on validation efficiently. For this very reason, a Monte-Carlo based simulation toolkit, the Geant4 project, was initiated in the context of the CERN RD44 R&D project as a worldwide collaboration. Geant4 is a multi-purpose toolkit to explore the nature of collisions and energy loss of particles. It is used in fields where particle interaction is required, ranging from high energy physics to medical physics and space physics research. The physics component offers various simulations packages and tools to study the processes involved. The work used the electromagnetic package to verify the Bethe-Bloch energy loss formula for charged particles developed mainly by Hans Bethe and analyse the extent of its validity.
+   </p>
+   <p>
+    <u>Relevant publication:</u> <b>V.Kerni</b>, J.Komaragiri: <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rkSVigQAAAAJ&authuser=1&citation_for_view=rkSVigQAAAAJ:d1gkVwhDpl0C"><i>Verification of Bethe-Bloch formula using Geant4 toolkit [arXiv:hep-ph]</i></a></p>
+</div>
 <br>
 <hr>
 
