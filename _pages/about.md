@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle:  Integrated Physics student @ IIT Roorkee
+subtitle:  BSc + MSc student @ IIT Roorkee
 
 profile:
   align: right 
