@@ -16,7 +16,7 @@ profile:
     </p>
   </div>
   <p>
-    My primary interests are in astrophysics, cosmology and particle physics. I am additionally interested in fluid dynamics, general physics, numerical methods and algorithms like ML, Quantum Computing for their usefulness in these domains. 
+    My primary interests are in astrophysics, cosmology. I am additionally interested in fluid dynamics, general physics, numerical methods and algorithms like ML, Quantum Computing for their usefulness in these domains. 
   </p> 
   <p> 
     During the year 2019, 2020, I got selected for 
