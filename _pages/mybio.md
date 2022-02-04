@@ -25,7 +25,7 @@ profile:
     through which I was fortunate to work under 
     <a href="http://chep.iisc.ac.in/Personnel/pages/jyothsna/index.html">Prof.Jyothsna R Komaragiri, 
     <a href="https://scholar.google.co.in/citations?user=UOV5qTsAAAAJ&hl=en">Prof. Anwesh Mazumdar</a> 
-    on particle physics simulation and asteroseismology respectively. Refer to [<a href="/vanshaj-kerni/projects/">Research page</a>] for detailed description of the work.
+    on particle physics simulation and asteroseismology respectively. Refer to [<a href="/projects/">Research page</a>] for detailed description of the work.
   
   <p>
     Apart from academics, I am fond of new technology, space travel, sci-fi movies, travelling and exploring new places. I love music with a particular liking for Indian Classical and old romantic songs—I am also a beginner flautist who desires to learn saxophone and other wind instruments.
