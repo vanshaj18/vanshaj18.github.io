@@ -11,29 +11,35 @@ profile:
 ---
 <div id="bio_anim">
 
-  <div class="header-bar">
-    <p style="font-family:Dancing Script, cursive">
-      I was born in the small town of <a href="https://udhampur.nic.in/tourist-places/">Udhampur</a> in Jammu and Kashmir, where I spent my early school days learning and playing with friends. My family then moved to the <a href="https://jammu.nic.in/">city of Jammu</a>, where I did my high school and cleared the IIT exam. I was always curious about our meaning in the universe; science shows were my all-time favourite and led me to my current interests in physics, astrophysics, and space technology. I always loved Sci-fi movies, with Interstellar being on top of my list.
-    </p>
-  </div>
+  <p class="header-bar" style="font-family:Dancing Script, cursive">
+      I was born in the small town of <a href="https://udhampur.nic.in/tourist-places/">Udhampur</a> in Jammu and Kashmir, where I spent my early school days learning and playing with friends. My family then moved to the <a href="https://jammu.nic.in/">city of Jammu</a>, where I did my high school and cleared the IIT exam. I was always curious about our meaning in the universe; science shows were my all-time favourite and led me to my current interests in physics, astrophysics, and space technology. I always loved Sci-fi movies, with Interstellar being on top of my list. Music particularly Indian Classical and old romantic songs r my favourite—I am also a beginner flautist who desires to learn saxophone and other wind instruments.
+  </p>
 
-  <p class="header-bar">
-    My primary interests are in astrophysics, cosmology. I am additionally interested in astronomy, fluid dynamics, general physics, numerical methods and algorithms like ML, Quantum Computing for their usefulness in these domains. </p>
+  <h5 style="text-align:center"> Research Interests: </h5>
+  <p> 
+    My primary interests are in astrophysics, cosmology. I am additionally interested in astronomy, fluid dynamics, general physics, numerical methods and algorithms like ML, Quantum Computing for their usefulness in these domains. <p  style="font-family:Dancing Script, cursive"> As side interests, I love to read about quantum information in context to biology, role of quantum mechanics in living systems. I sometimes think on the possibilty of life beyound earth, and has written a medium article about the possibility.
+
+  </p>
+
+  <p class="header-bar"> <h5 style="text-align:center"> Previous works: </h5>
+  <ul>
+    <li> 
+      I spend the Fall of 2021 working on High Energy Astrophysics project studying the parameters of first ever UCXB, OGLE-01 under the SSERD program under the mentorship of <a href="https://owsd.net/member/hunde-feven-markos"> Feven Markos Hunde</a>. 
+    </li>
+    <li> 
+      During the year 2020, I got selected for <a href="https://web-japps.ias.ac.in:8443/fellowship2020/lists/result.jsp"> Indian Science Academy Summer Research Fellowshop </a>, through which I was fortunate to work under <a href="http://chep.iisc.ac.in/Personnel/pages/jyothsna/index.html"> Prof.Jyothsna R Komaragiri </a> on simulating motion of charged particles using Geant4. 
+    </li> 
+    <li> 
+      In Fall 2019, I was selected for the <a href="https://www.hbcse.tifr.res.in/data/national-initiative-on-undergraduate-sciences-nius">National Initiative of Undergraduate Sciences </a> giving me wonderful opportunity to work with <a href="https://scholar.google.co.in/citations?user=UOV5qTsAAAAJ&hl=en">Prof. Anwesh Mazumdar</a> on studying the internal structre of stars using the techniques of seismology. 
+    </li>
+    <li>
+      During the winter of 2018, I did a small reading project work under the esteemed guidance of <a href="https://www.iitr.ac.in/~PH/anilgfph"> Prof. Anil Gourishetty</a> on understanding different nuclear processes for elemnet synthesis and stellar evolution in general. 
+    </li>
+    </ul>
+    Do refer to [<a href="/projects/">Research page</a>] for description of the projects.
   
 
-  <p class="header-bar">
-    During the year 2019, 2020, I got selected for 
-    <a href="https://web-japps.ias.ac.in:8443/fellowship2020/lists/result.jsp">IAS SRFP 2020</a>, 
-    <a href="https://www.hbcse.tifr.res.in/data/national-initiative-on-undergraduate-sciences-nius">NIUS 2019</a> 
-    through which I was fortunate to work under 
-    <a href="http://chep.iisc.ac.in/Personnel/pages/jyothsna/index.html">Prof.Jyothsna R Komaragiri, 
-    <a href="https://scholar.google.co.in/citations?user=UOV5qTsAAAAJ&hl=en">Prof. Anwesh Mazumdar</a> 
-    on particle physics simulation and asteroseismology respectively. Refer to [<a href="/projects/">Research page</a>] for detailed description of the work.
-  
-
-  <p class="header-bar">
-    Apart from academics, I am fond of new technology, space travel, sci-fi movies, travelling and exploring new places. I love music with a particular liking for Indian Classical and old romantic songs—I am also a beginner flautist who desires to learn saxophone and other wind instruments.
-    <br> <br> 
+  <p class="header-bar"> <h5> OutReach </h5>   
     I also spend time in science promoting activites. I am involved with the <a href="https://iaac.space/en/">International Astronomy and Astrophysics Competition</a> as their official <a href="https://iaac.space/en/vankerni">Indian Ambassador</a> promoting astronomy and astrophysics to young talents. I am also involved with the <a href="https://www.facebook.com/physastroclubiitr/">Physics and Astronomy Club IIT Roorkee</a>, organising multiple events and programs for promoting physics and astronomy in and around IIT Roorkee.
   </p>
 

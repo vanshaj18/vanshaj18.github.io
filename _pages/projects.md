@@ -33,7 +33,7 @@ nav: true
 <hr>
 
 <div>
-   <h5><b>Fluid flow in microsize channels</b></h5>
+   <h5><b>Fluid flow in microsize channels</b></h5>(<i>ongoing</i>) 
    <p align="justify">
      Microfluidic technology has seen a tremendous growth in past couple of years. The reason being its coverage in manipulating fluid and species flow in small volumes. Research on new materials have given a new boost to such domains and now such devices are becoming common in diagnostics due to their long-range benefits. These devices are inexpensive, portable, and disposable, thus highly useful in health care systems. These are now becoming popular in research and clinical applications, including biosensing, drug development, and chemical synthesis. Clinical application useage such as <a href="https://www.mdpi.com/2306-5354/8/7/94/pdf#:~:text=The%20standard%20separation%20process%20is,into%20the%20microfluidic%20sensing%20platform.">plasma seperation</a> are essentially dependent on proper understanding of blood flow in the micro domains. </p> <p>Theoretical models on blood flow have highlighted the impact of arterial diameter to blood flow. However, only a few actual testing of these ideas have been recorded. A systematic study on factors characterising essential attributes of the blood is still lacking in the field despite their tremendous applications in the health care systems. Our work considers an incompressible Navier Stokes equations with a power-law model to study blood flow velocity in two dimensions. We modelled the stenosed section as a simple compression and expansion region in a rectangular capillary. Our work, an expansion of <a href="https://pubmed.ncbi.nlm.nih.gov/23856409/">previous works</a>, has obtained important dependence among such factors.
     </p>
