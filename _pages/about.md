@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle:  BSc + MSc student @ IIT Roorkee
+subtitle:  Physics Major
 
 profile:
   align: right 
@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! नमस्ते (Namaste) <br>Welcome to my webspace. 
 <p> 
-  I'm a 4th year undergraduate student at the <a href="https://ph.iitr.ac.in/departments/PH/pages/index.html">Department of Physics</a>, <a href="https://new.iitr.ac.in/">Indian Institute of Technology Roorkee</a> majoring in physics. <br> <br> I'm a curious learner interested in the new developments in physics and science. I love to discuss possible solutions to problems of societial and scientific interests. I also love a healthy philosophical conversation;  a quick learner, open to learning new areas & tools to understand the universe more clearly... <i>taking step a bit by bit.</i> 
+  I'm a 4th year undergraduate student at the <a href="https://ph.iitr.ac.in/departments/PH/pages/index.html">Department of Physics</a>, <a href="https://new.iitr.ac.in/">Indian Institute of Technology Roorkee</a>. <br> <br> I'm a person with curiosity for new developments in physics and science. A quick learner, open to new areas & tools to understand the universe more clearly. I like disucssing problems of societial and scientific importance working my way to a possible solution. I like healthy conversations on topics linking to nature, human mind, philosophy, science history, mathematics etc. somtimes I get overwhelmed by the amount of knowledge that's out there to grasp but then again not to hurry learning ... <i>a bit by bit.</i> 
 </p>
 
 <div class="row justify-content-sm">
