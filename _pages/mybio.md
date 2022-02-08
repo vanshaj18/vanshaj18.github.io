@@ -16,7 +16,7 @@ profile:
 
   <h5 style="text-align:center"> Research Interests: </h5>
   <p> 
-    My primary interests are in cosmology, astrophysics, quantum physics. I am also interested in applied maths, astronomy, numerical methods machine learning and quantum computing. <p  style="font-family:Dancing Script, cursive"> As side interests, I love to read about quantum information in context to biology, role of quantum mechanics in living systems. I sometimes think on the possibilty of life beyound earth, and has written a medium article about the possibility.
+    My primary interests are in cosmology, astrophysics, particle physics. I am also interested in applied maths, astronomy, numerical methods machine learning and quantum computing. <p  style="font-family:Dancing Script, cursive"> As side interests, I love to read about quantum information in context to biology, role of quantum mechanics in living systems. I sometimes think on the possibilty of life beyound earth, and has written a medium article about the possibility.
 
   </p>
 
