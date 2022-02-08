@@ -404,7 +404,7 @@ footer.sticky-bottom {
     font-size: 14px;
   }
 }
-@-webkit-keyframes floating {
+@keyframes floating {
     0% { transform: translate(-100px,  0px); }
     50%  { transform: translate(0px, 0px); }
 }

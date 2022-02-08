@@ -14,11 +14,12 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<br>
 
-Hello! नमस्ते (Namaste) <br>Welcome to my webspace. 
-<p class="font-family:Dancing Script, cursive"> 
-  I'm a 4th year undergraduate student at the <a href="https://ph.iitr.ac.in/departments/PH/pages/index.html">Department of Physics</a>, <a href="https://new.iitr.ac.in/">Indian Institute of Technology Roorkee</a>. <br> <br> I'm a person with curiosity for new developments in physics and science. A quick learner, open to new areas & tools to understand the universe more clearly. I like disucssing problems of societial and scientific importance working my way to a possible solution. I like healthy conversations on topics linking to nature, human mind, philosophy, science history, mathematics etc. somtimes I get overwhelmed by the amount of knowledge that's out there to grasp but then again not to hurry learning ... <i>a bit by bit.</i> 
+
+Hello! नमस्ते (Namaste) <br> 
+
+<p style="font-family:Dancing Script, cursive">
+  I'm a 4th year undergraduate student at the <a href="https://ph.iitr.ac.in/departments/PH/pages/index.html">Department of Physics</a>, <a href="https://new.iitr.ac.in/">Indian Institute of Technology Roorkee</a>. <br> <br> I'm a person of curious nature with love for science and technology. I'm working towards understanding the universe and our presence in. I like disucssing problems of societial and scientific importance working my way to a possible solution. I like healthy conversations on topics linking to nature, human mind, philosophy, science history, mathematics etc. somtimes I get overwhelmed by the amount of knowledge that's out there to grasp but then again not to hurry learning ... <i>a bit by bit.</i> 
 </p>
 
 <div class="row justify-content-sm">
@@ -28,7 +29,7 @@ Hello! नमस्ते (Namaste) <br>Welcome to my webspace.
     </div>
 </div>
 
-<p class="header-bar"> 
+<p class="header-bar" style="font-family:Dancing Script, cursive">
   I'm very grateful to all my professors for taking out their time to write recommendations on my behalf for the multitude of research internships and programs I have applied for.
 </p>
 
