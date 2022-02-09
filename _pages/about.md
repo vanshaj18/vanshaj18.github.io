@@ -30,9 +30,9 @@ Hello! नमस्ते (Namaste) <br>
 </div>
 
 <p class="header-bar" style="font-family:Dancing Script, cursive">
-  I'm very grateful to all my professors for taking out their time to write recommendations on my behalf for the multitude of research internships and programs I have applied for.
+  I also express my gratitude to all my professors for taking out their time to write recommendations on my behalf for the multitude of research internships and programs I apply for.
 </p>
 
 <blockquote> 
-  We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the Universe. That makes us something very special. ― Stephen Hawking 
+  If you wish to make an apple pie from scratch, you must first invent the universe. ― Carl Sagan
 </blockquote>
