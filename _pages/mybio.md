@@ -23,7 +23,7 @@ profile:
   <p class="header-bar"> <h5 style="text-align:center"> Previous works: </h5>
   <ul>
     <li> 
-      I spend the Fall of 2021 working on High Energy Astrophysics project studying the parameters of first ever UCXB, OGLE-01 under the SSERD program under the mentorship of <a href="https://owsd.net/member/hunde-feven-markos"> Feven Markos Hunde</a>. 
+      I spend the Fall of 2021 working on High Energy Astrophysics project analyzing stellar parameters of ultra-compact x-ray binary, ogle-ucxb-01 analysing the parameters governing the evolution of a UCXB using python and data from Viser, Gaia etc. for validation under the mentorship of <a href="https://owsd.net/member/hunde-feven-markos"> Feven Markos Hunde</a>. 
     </li>
     <li> 
       During the year 2020, I got selected for <a href="https://web-japps.ias.ac.in:8443/fellowship2020/lists/result.jsp"> Indian Science Academy Summer Research Fellowshop </a>, through which I was fortunate to work under <a href="http://chep.iisc.ac.in/Personnel/pages/jyothsna/index.html"> Prof.Jyothsna R Komaragiri </a> on simulating motion of charged particles using Geant4. 
