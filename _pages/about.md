@@ -14,11 +14,11 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
+<div class="home_bg">
 
 Hello! नमस्ते (Namaste) <br> 
 
-<p style="font-family:Dancing Script, cursive">
+<p>
   I'm a 4th year undergraduate student at the <a href="https://ph.iitr.ac.in/departments/PH/pages/index.html">Department of Physics</a>, <a href="https://new.iitr.ac.in/">Indian Institute of Technology Roorkee</a>. <br> <br> I'm a person of curious nature with love for science and technology. I'm working towards understanding the universe and our presence in. I like disucssing problems of societial and scientific importance working my way to a possible solution. I like healthy conversations on topics linking to nature, human mind, philosophy, science history, mathematics etc. somtimes I get overwhelmed by the amount of knowledge that's out there to grasp but then again not to hurry learning ... <i>a bit by bit.</i> 
 </p>
 
@@ -36,3 +36,4 @@ Hello! नमस्ते (Namaste) <br>
 <blockquote> 
   If you wish to make an apple pie from scratch, you must first invent the universe. ― Carl Sagan
 </blockquote>
+</div>

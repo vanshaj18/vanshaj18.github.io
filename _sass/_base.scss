@@ -8,9 +8,9 @@ p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }
 
-body{
-  background-image: url("../assets/img/bb_cartoon.jpg");
-}
+// body{
+//   background-image: url("../assets/img/bb_cartoon.jpg");
+// }
 
 // hr {
 //   border-top: 1px solid var(--global-divider-color);
@@ -232,6 +232,12 @@ blockquote {
     transform: rotate(0);
   }
 }
+
+// .home_bg{
+//   background-image: url("../img/omuamua.jpg");
+//   background-position: center;
+//   ;
+// }
 
 
 // News
