@@ -30,7 +30,7 @@ Hello! नमस्ते (Namaste) <br>
 </div>
 
 <p class="header-bar" style="font-family:Dancing Script, cursive">
-  I also express my gratitude to all my professors for taking out their time to write recommendations on my behalf for the multitude of research internships and programs I apply for.
+  I express my generous gratitude to all my professors for taking out their time to write recommendations on my behalf for the multitude of research internships and programs I apply for.
 </p>
 
 <blockquote> 
