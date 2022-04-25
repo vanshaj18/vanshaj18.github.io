@@ -28,7 +28,7 @@ Hello! नमस्ते (Namaste) <br>
       My college
     </div>
 </div>
-
+<br/>
 <p>
   I express my generous gratitude to all my professors for taking out their time to write recommendations on my behalf for the multitude of research internships and programs I apply for.
 </p>

@@ -12,7 +12,7 @@ profile:
 <div id="bio_anim">
 
   <p class="header-bar" style="font-family:Dancing Script, cursive">
-      I was born in the small town of <a href="https://udhampur.nic.in/tourist-places/">Udhampur</a> in Jammu and Kashmir, where I spent my early school days learning and playing with friends. My family then moved to the <a href="https://jammu.nic.in/">city of Jammu</a>, where I did my high school and cleared the IIT exam. I was always curious about our meaning in the universe; science shows were my all-time favourite and led me to my current interests in physics, astrophysics, and space technology. I always loved Sci-fi movies, with Interstellar being on top of my list. Music particularly Indian Classical and old romantic songs r my favourite—I am also a beginner flautist who desires to learn saxophone and other wind instruments.</p>
+      I was born in the small town of <a href="https://udhampur.nic.in/tourist-places/">Udhampur</a> in Jammu and Kashmir, where I spent my early school days learning and playing with friends. My family then moved to the <a href="https://jammu.nic.in/">city of Jammu</a>, where I did my high school and cleared the IIT exam. I was always curious about our meaning in the universe; science shows were my all-time favourite and led me to my current interests in physics, astrophysics, and space technology. I love to watch movies, with Interstellar being on top of my list and a MCU fan. My other interests is in music—I am a beginner flautist with a photographer inside me. I also like hiking, travelling and eating new dishes.</p>
 
   <h5 style="text-align:center"> Research Interests: </h5>
   <p> 
