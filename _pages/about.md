@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle:  Physics Major
+subtitle:  Integrated Master of Physics | <a href="https://new.iitr.ac.in/">Indian Institute of Technology Roorkee</a>
 
 profile:
   align: right 
@@ -16,10 +16,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 <div class="home_bg">
 
+<br>
 Hello! नमस्ते (Namaste) <br> 
-
+<br>
 <p>
-  I'm a 4th year undergraduate student at the <a href="https://ph.iitr.ac.in/departments/PH/pages/index.html">Department of Physics</a>, <a href="https://new.iitr.ac.in/">Indian Institute of Technology Roorkee</a>. <br> <br> I'm a person of curious nature with love for science and technology. I'm working towards understanding the universe and our presence in. I like disucssing problems of societial and scientific importance working my way to a possible solution. I like healthy conversations on topics linking to nature, human mind, philosophy, science history, mathematics etc. somtimes I get overwhelmed by the amount of knowledge that's out there to grasp but then again not to hurry learning ... <i>a bit by bit.</i> 
+  I'm a person of curious nature with love for science and technology. I'm working towards understanding the universe and our presence in. I like disucssing problems of societial and scientific importance working my way to a possible solution. I like healthy conversations on topics linking to nature, human mind, philosophy, science history, mathematics etc. somtimes I get overwhelmed by the amount of knowledge that's out there to grasp but then again not to hurry learning ... <i>a bit by bit.</i> 
 </p>
 
 <div class="row justify-content-sm">
