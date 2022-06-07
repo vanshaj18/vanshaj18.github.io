@@ -28,16 +28,16 @@
             {%- if site.medium_username -%}<!-- medium -->
             <a href="https://medium.com/@{{ site.medium_username }}" title="Medium"><i class="fab fa-medium"></i></a>
             {% endif %}
-            {%- if site.quora_username -%}
+            {%- if site.quora_username -%} <!-- quora-->
             <a href="https://www.quora.com/profile/{{ site.quora_username }}" title="Quora"><i class="fab fa-quora"></i></a>
             {% endif %}
-            {%- if site.blogger_url -%}
+            {%- if site.blogger_url -%} <!-- blogger -->
             <a href="{{ site.blogger_url }}" title="Blogger"><i class="fab fa-blogger-b"></i></a>
             {% endif %}
-            {%- if site.work_url -%}
+            {%- if site.work_url -%} <!-- breifcase-->
             <a href="{{ site.work_url }}" title="Work"><i class="fas fa-briefcase"></i></a>
             {% endif %}
-            {%- if site.wikidata_id -%}
+            {%- if site.wikidata_id -%} <!--- wikidata-->
             <a href="https://www.wikidata.org/wiki/{{ site.wikidata_id }}" title="Wikidata"><i class="fas fa-barcode"></i></a>
             {% endif %}
             {%- if site.strava_userid -%}
@@ -46,16 +46,19 @@
             {%- if site.keybase_username -%}
             <a href="https://keybase.io/{{ site.keybase_username }}" title="Keybase"><i class="fab fa-keybase"></i></a>
             {% endif %}
-            {%- if site.gitlab_username -%}
+            {%- if site.gitlab_username -%} <!--- gitlab-->
             <a href="https://gitlab.com/{{ site.gitlab_username }}" title="GitLab"><i class="fab fa-gitlab"></i></a>
             {% endif %}
-            {%- if site.dblp_url -%}
+            {%- if site.dblp_url -%} 
             <a href="{{ site.dblp_url }}" title="DBLP"><i class="ai ai-dblp"></i></a>
             {% endif %}
-            {%- if site.stackoverflow_id -%}
+            {%- if site.stackoverflow_id -%} <!-- stackoverflow-->
             <a href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}" title="Stackoverflow"><i class="fab fa-stack-overflow"></i></a>
             {% endif %}
-            {%- if site.rss_icon -%}
+            {%- if site.rss_icon -%} <!--- rss feed-->
             <a href="{{ site.baseurl | prepend: site.url }}/feed.xml" title="RSS Feed"><i class="fas fa-rss-square"></i></a>
+            {% endif %}
+            {%- if site.rss_icon -%} <!--- rss feed-->
+            <a href="https://linktr.ee/{{ site.linktree_username }}" title="linktree"><i class="fa-light fa-tree"></i></a>
             {% endif %}
            
