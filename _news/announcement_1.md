@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-1-26
+date: 2022-05-10
 inline: true
 ---
-
-<a href="https://www.quantamagazine.org/researchers-build-ai-that-builds-ai-20220125/">An AI build another AI </a>
+<p> Interning in Stellar and Galactic Astronomy Group
+ at <a href="https://www.iiap.res.in/">IIA </a> </p>

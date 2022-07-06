@@ -13,7 +13,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: V #adding the icon in the task bar
+icon: 🧑🏾‍🚀 #adding the icon in the task bar
 url: https://vanshaj18.github.io # the base hostname & protocol for your site #to be added in this
 baseurl:  # the subpath of your site, e.g. /blog/
 cvurl: https://github.com/vanshaj18/vanshaj18.github.io/raw/master/assets/pdf/CV.pdf #add the url of the cv page
@@ -56,7 +56,7 @@ github_username: vanshaj18
 # gitlab_username: # your GitLab user name
 # twitter_username: vanshaj_kerni
 # facebook_id: 100008765974308
-# instagram_username: vanshajk_18
+instagram_username: vanshajk_18
 # linkedin_username: vanshaj-kerni
 #scholar_userid: rkSVigQAAAAJ
 orcid_id: 0000-0002-3076-607X
