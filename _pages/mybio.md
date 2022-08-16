@@ -7,7 +7,7 @@ title:  About me
 nav: true
 profile:
   align: right 
-  image: myself.jpg
+  image: myself_05.jpg
 ---
 <div id="bio_anim">
 
