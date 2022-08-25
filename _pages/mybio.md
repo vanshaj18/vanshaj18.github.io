@@ -16,11 +16,15 @@ profile:
 
   <h5 style="text-align:center"> Research Interests: </h5>
   <p> 
-    My primary interests are in astrophysics, cosmology. I am also interested in applied maths, astronomy, numerical methods machine learning and quantum computing. <p  style="font-family:Dancing Script, cursive"> As side interests, I love to read about quantum information in context to biology, role of quantum mechanics in living systems. I sometimes think on the possibilty of life beyound earth, and has written a medium article about the possibility.
-
+    My interest is in cosmology, structure formation, early universe and primodial gravitational waves. I am also interested in applied maths, numerical simulations, machine learning and observations. <p  style="font-family:Dancing Script, cursive"> As side interests, I love to read about quantum information in context to biology, role of quantum mechanics in living systems. I sometimes think on the possibilty of life beyound earth, and has written a medium article about the possibility.
   </p>
 
-  <p class="header-bar"> <h5 style="text-align:center"> Previous works: </h5>
+    <div class="col-sm-7  mt-3 mt-md-0">
+        {% include figure.html path="assets/img/bb_cartoon.jpg" title="" class="img-fluid z-depth-1" %}
+        not look at your feet, look up at stars.
+    </div>
+
+  <!-- <p class="header-bar"> <h5 style="text-align:center"> Previous works: </h5>
   <ul>
     <li> 
       I spend the Fall of 2021 working on High Energy Astrophysics project analyzing stellar parameters of ultra-compact x-ray binary, ogle-ucxb-01 analysing the parameters governing the evolution of a UCXB using python and data from Viser, Gaia etc. for validation under the mentorship of <a href="https://owsd.net/member/hunde-feven-markos"> Feven Markos Hunde</a>. 
@@ -35,7 +39,7 @@ profile:
       During the winter of 2018, I did a small reading project work under the esteemed guidance of <a href="https://www.iitr.ac.in/~PH/anilgfph"> Prof. Anil Gourishetty</a> on understanding different nuclear processes for elemnet synthesis and stellar evolution in general. 
     </li>
     </ul>
-    Do refer to [<a href="/projects/">Research page</a>] for description of the projects.
+    Do refer to [<a href="/projects/">Research page</a>] for description of the projects. -->
   
 
   <p class="header-bar"> <h5> OutReach </h5>   
