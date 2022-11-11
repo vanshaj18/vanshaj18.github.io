@@ -8,8 +8,8 @@ nav: true
 ---
 <div id="projects">
 <p> 
-  <b> Currently working on Master's Thesis on constraining cosmological model with CMB as probe under the guidance 
-  of <a href="https://www.sheffield.ac.uk/maths/news/qa-dr-eleonora-di-valentino-cosmology"> Prof. Eleonora Di Valentino</a> of University of Sheffield. </b> </p>
+  <b> Currently working on Master's Thesis on constraining cosmological model with CMB as probe with <a href="https://www.sheffield.ac.uk/maths/news/qa-dr-eleonora-di-valentino-cosmology"> Prof. Eleonora Di Valentino</a> of University of Sheffield as my supervisor and <a href="https://ph.iitr.ac.in/~PH/moumifph">Prof. Moumita Maiti </a> as co-supervisor. 
+  </b> </p>
 
 <hr>
 <div>
@@ -45,7 +45,7 @@ nav: true
 <hr>
 
 <div>
-   <h5><b>Particle simulation on Geant4</b></h5>
+   <h5><b>Particle simulation on Geant4</b></h5>(Mentor: <a href="">Prof. Jyothsna Komaragiri</a>)
    <p align="justify">
    <a href="https://phy.princeton.edu/research/research-areas/particle-phenomenology#:~:text=Particle%20physics%20phenomenology%20is%20the,of%20Nature%20and%20their%20interactions.&text=In%20addition%2C%20they%20are%20developing,Collider%20and%20fixed%2Dtarget%20experiments.">Particle Physics Phenomenology</a> is the field where one tries to understand the fundamental interactions of particles of nature. Particle phenomenology bridges the high energy experiment with the theoretical understanding of the interaction. It, therefore, provides a basis for validating the theoretical predictions about the interaction processes. We need tools to simulate the theoretical predictions to work on validation efficiently. For this very reason, a Monte-Carlo based simulation toolkit, the Geant4 project, was initiated in the context of the CERN RD44 R&D project as a worldwide collaboration. Geant4 is a multi-purpose toolkit to explore the nature of collisions and energy loss of particles. It is used in fields where particle interaction is required, ranging from high energy physics to medical physics and space physics research. The physics component offers various simulations packages and tools to study the processes involved. The work used the electromagnetic package to verify the Bethe-Bloch energy loss formula for charged particles developed mainly by Hans Bethe and analyse the extent of its validity.
    </p>
@@ -56,7 +56,7 @@ nav: true
 <hr>
 
 <div>
-    <h5><b>Asteroseismology of stars</b></h5>
+    <h5><b>Asteroseismology of stars</b></h5>(Methor: <a href="https://www.hbcse.tifr.res.in/people/academic/anwesh-mazumdar">Prof. Anwesh Mazumdar</a>)
     <p align="justify">
      <a href="https://en.wikipedia.org/wiki/Asteroseismology">Asteroseismology</a> is the study of the oscillations occurring inside a star by analysing the periodicity of the luminosity variations, which leads to inferences about the star's internal structure, which is otherwise beyond the scope of observational astronomy. For a non-technical reader, as analogous to seismic oscillations or earthquakes on Earth, a star also experiences "quakes" or "oscillations" where different modes of changes occur depending on the position inside the star,namely <i>P</i>, <i>G</i>, <i>F</i>, <i> Mixed</i> modes occurs inside the star. My work in the undergraduate project involved learning the asteroseismology theory and data analysis and reduction techniques used in the field by validating the theoretical framework, <a href="https://phys.au.dk/~jcd/evolnotes/LN_stellar_structure.pdf">Stellar Structure and Evolution</a> for theory and <a href="https://press.princeton.edu/books/hardcover/9780691162928/asteroseismic-data-analysis">Asteroseismic data analysis</a> for data analysis.
     </p>
@@ -67,7 +67,7 @@ nav: true
 
 
 <div>
-   <h5><b>Nuclear aspect of Astrophysics</b></h5>
+   <h5><b>Nuclear aspect of Astrophysics</b></h5>(Mentor: <a href="https://www.iitr.ac.in/~PH/anilgfph">Prof. Anil Gourishetty</a>)
    <p align="justify">
      Astrophysics is a multi-discipline area of research that requires grasping every significant concept in physics, from particle physics to fluid dynamics to quantum physics and gravitation. Nucleosynthesis is the formation of elements in the hot stellar stoves where temperatures are of the order of Million Kelvins. Every star begins its lifecycle from the ZAMS (zero-age-main-sequence) position in the HR (Hertzsprung–Russell) diagram, evolving in many possible paths determined by its initial birth mass. A massive star begins up high in the HR diagram, evolve fast and dye spectacularly in the form of supernovas. In contrast, a low mass star starts in the lower position, evolve in an almost everlasting time frame and ends in the smallest possible "spheres". The element formation in the stars is dependent on the core temperature and therefore are many in number, namely  <i>pp-cycle</i>, <i>CNO-cycle</i>, <i>r-process</i>, <i>p-process</i>, <i>s-process</i>. My first undergrad project involved reviewing <a href="https://arxiv.org/pdf/0911.3965.pdf">previous works</a> on stellar evolution, element formation processes, and general academic research.
    </p>
