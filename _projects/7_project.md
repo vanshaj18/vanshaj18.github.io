@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Multimessenger astronomy
-description: EM Waves, Photons, particles, GW waves and more
-img: assets/img/photo/mesh.jpg
-importance: 3
+title: project 7
+description: 
+importance: 4
 category: Blog
 ---
 

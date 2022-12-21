@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Community work
+title: Non-research
 permalink: /other
 # description:  <blockquote> If we knew what we were doing, it won't be called research---Einstein </blockquote>
 nav: true 
-display_categories: [Outreach talks, Hobbies]
+display_categories: [Outreach talks, Blogs]
 horizontal: false
 ---
 
@@ -21,7 +21,7 @@ horizontal: false
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   
-  Talks cards
+  Outreach talks
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
@@ -30,6 +30,7 @@ horizontal: false
     {%- endfor %}
     </div>
   </div>
+
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}

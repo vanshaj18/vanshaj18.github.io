@@ -17,13 +17,7 @@ category: Outreach talks
 
 
 Our competition submission
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-    <iframe src="assets/pdf/dark_matter_case_study.pdf" width="100%" height="500px">
-    </iframe>
-</div>
-
+<iframe src="https://drive.google.com/file/d/1CmSEdsfnkvT2TaJD3uKlkX_mKZSqX3o-/preview#toolbar=0" width="700" height="480" allow="autoplay"></iframe>
 <br>
 
 Competition certificate:
