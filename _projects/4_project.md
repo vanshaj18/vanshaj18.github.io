@@ -1,73 +1,41 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Hyperion 2021-IIT Kanpur
+description: Research study challenge 
+img: assets/img/hyperion.jpg
 importance: 3
-category: fun
+category: Outreach talks
 ---
+<p>
+    <b>Challenge</b>: A 48 hours nationwide ca­se study challenge organised by the Astronomy club of the 
+    Indian Institute of Technolgy Kanpur. The theme for the 2021 competition was the calculation of Local Dark Matter Density 
+    <a href="https://unstop.com/competition/hyperion-2021-indian-institute-of-technology-iit-kanpur-214355?lb=1shBdx8" target="__blank"> Hyperion </a>. The competition 
+    involved the submission of a research report.
+<br> <br>
+    <b>The team, Glueballs</b>: I was part of a three member team with <a href="https://scholar.google.com/citations?user=yhwBklQAAAAJ&hl=en" target="__blank"> Piyush Marmat </a>, <a href="https://www.linkedin.com/in/rishabh-mehta-871b02163/?originalSubdomain=in" target="__blank"> Rishab Mehta </a> as other members. We submitted our work and grab the first position among 13 participating teams.
+</p>
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Our competition submission
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+    <iframe src="assets/pdf/dark_matter_case_study.pdf" width="100%" height="500px">
+    </iframe>
+</div>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<br>
 
+Competition certificate:
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-8 mt-4 mt-md-0">
+        {% include figure.html path="assets/img/hyperion_certi.png" title="hyperion certificate" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
+<!-- 
 {% raw %}
-```html
+<!-- ```html
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -77,4 +45,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->

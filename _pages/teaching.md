@@ -1,17 +1,12 @@
 ---
 layout: page
-title: Other Involvement
-permalink: /extra-work/
-description:  If we knew what we were doing, it won't be called research---Einstein
-nav: false 
-display_categories: [competitions, work]
+title: Community work
+permalink: /other
+# description:  <blockquote> If we knew what we were doing, it won't be called research---Einstein </blockquote>
+nav: true 
+display_categories: [Outreach talks, Hobbies]
 horizontal: false
 ---
-
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
 
 
 <!-- pages/projects.md -->
@@ -25,7 +20,8 @@ Organize your courses by years, topics, or universities, however you like!
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  Generate cards for each project
+  
+  Talks cards
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">

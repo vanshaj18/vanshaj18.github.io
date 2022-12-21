@@ -1,80 +1,53 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Course ppt
+description: Dark Matter and Dark Stars
+img: assets/img/dm.jpg
 importance: 2
-category: work
+category: Outreach talks
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The mini research work was done as part of a course work assignemnt, PHN-331, Nuclear Astrophysics. The assignment
+was to select a research topic and prepare 15 min short video presentation as part of submission. Interested in astrophysics and stellar evolution, I selected topic <b> Dark Stars and Dark Matter</b>. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The submission is available at <a href="https://github.com/vanshaj18/Dark-Matter_presentation" target="__blank"> Github </a> and GDrive
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+<h4> Brief about the presentation </h4>
+<blockquote> 
+In the work, I discussed about the general discription of matter and dark matter, their possible implication in the formation and powering of early stars (Population III stars) and possible evolutionary step for super-massive black holes. Additionally, I discuss their birth in the dark matter halos and journey from dark matter powered to nuclear powered stars.
+</blockquote>
+
+<div style="background-color: LightGray; text-align: justify; text-justify: inter-word; padding: 12px">
+    
+    <h4> Why the work is interesting ? </h4>
+        <p>
+            Matter and dark matter are two fundamental substances that make up the universe. Matter refers to the ordinary matter that constitutes the stars, planets, and galaxies we observe, while dark matter is an unseen substance that is thought to comprise most of the mass in the universe. 
+        </p>
+        
+        <p>
+            Dark matter is theorized to influence the formation and evolution of galaxies, black holes, and other cosmic structures. In the early universe, population III stars, the first stars to form, likely formed within the densest regions where dark matter's gravitational influence helped gather and collapse gas into the stars. 
+            Black holes, some of the most mysterious objects in the universe, are regions of space where the gravitational force is so strong that nothing, including light, can't escape. It is believed that these first stars eventually within the dense regions of dark matter laid the path to supermassive black holes with masses millions to billions times the solar mass. 
+            Despite its importance, the true nature of dark matter still remains a mystery, and researchers are actively working on learning more about this enigmatic substance.
+        </p>
+
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+<br>
+
+<h5> Papers I refer to prepare the work </h5>
+<ul>
+    <li> 
+    Freese, K., Rindler-Daller, T., Spolyar, D., and Valluri, M., <a href="https://ui.adsabs.harvard.edu/abs/2016RPPh...79f6902F/abstract" >“Dark stars: a review”</a>, <i>Reports on Progress in Physics</i>, vol. 79, no. 6, 2016. doi:10.1088/0034-4885/79/6/066902. 
+    </li>
+
+    <li> 
+    Bertone, G. and Hooper, D., <a href="https://ui.adsabs.harvard.edu/abs/2018RvMP...90d5002B/abstract" target="__blank"> “History of dark matter”,</a> <i>Reviews of Modern Physics</i>, vol. 90, no. 4, 2018. doi:10.1103/RevModPhys.90.045002.
+    </li>
+</ul>
+
+<br>
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+<h5> My final presentation </h5>
+<iframe src="https://drive.google.com/file/d/1z0nhkT7Zb110VbnGjDoY-2_GjfhX5xMo/preview" width="800" height="480" allow="autoplay"></iframe>

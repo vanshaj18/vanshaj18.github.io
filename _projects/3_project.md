@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Course presentation
+description: Explanation of bubble sort algorithm using 8085 processors
+img: assets/img/bubble.png
+redirect: https://youtu.be/fsGAYYKji6Y
 importance: 3
-category: work
+category: Outreach talks
 ---
 
 Every project has a beautiful feature showcase page.
