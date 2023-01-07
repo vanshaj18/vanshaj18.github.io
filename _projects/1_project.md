@@ -2,7 +2,7 @@
 layout: page
 title: Seminar talk-IIT Roorkee
 description: Gravitational Waves- A new way to look into the universe
-img: assets/img/gwwaves.jpg
+img: assets/img/photo/gw.gif
 importance: 1
 category: Outreach talks
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Non-research
+title: Other
 permalink: /other
 # description:  <blockquote> If we knew what we were doing, it won't be called research---Einstein </blockquote>
 nav: true 

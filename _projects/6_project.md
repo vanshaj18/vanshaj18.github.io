@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Astronomy research
+description: Why even bother
+img: 
 importance: 4
 category: Blog
 ---
