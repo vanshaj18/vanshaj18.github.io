@@ -6,7 +6,7 @@ subtitle:  Integrated Master of Physics | <a href="https://new.iitr.ac.in/">Indi
 
 profile:
   align: right 
-  image: myself_04.JPG
+  image: me2.jpg
   # address: >
   #   <p class="profile-circular"> taken by my friend parth</p>
 
@@ -17,7 +17,8 @@ social: true  # includes social icons at the bottom of the page
 <div class="home_bg">
 
 <br>
-Hello!  नमस्ते <br> 
+Hello!  नमस्ते 
+<br> 
 <br>
 
 <p>

@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2022-08-15
+date: 2023-05-21
 inline: true
 ---
-<p> Completed my intern in Stellar and Galactic Astronomy Group
- at <a href="https://www.iiap.res.in/">IIA </a> </p>
+<p> Graduated with Integrated Masters in Physics degree. </p>
