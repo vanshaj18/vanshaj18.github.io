@@ -7,15 +7,29 @@ nav: true
 #display_categories: [mywork, fun]
 ---
 <div id="projects">
-<p> 
+  
+<!-- <p> 
   <b> Currently working on Master's Thesis on constraining cosmological model with CMB as probe with <a href="https://www.sheffield.ac.uk/maths/news/qa-dr-eleonora-di-valentino-cosmology"> Prof. Eleonora Di Valentino</a> of University of Sheffield as my supervisor and <a href="https://ph.iitr.ac.in/~PH/moumifph">Prof. Moumita Maiti </a> as co-supervisor. 
-  </b> </p>
+  </b> </p> -->
 
 <hr>
 <div>
-    <h5><b>Dark Matter and Cosmology</b></h5>(<i>ongoing</i>, Mentor: <a href="https://www.ststephens.edu/department-of-physics/dr-geetanjali-sethi/">Dr.Geetanjali Sethi</a>) 
+  <h5> <b> Late time Stellar Evolution </b></h5> (Supervisor: <a href="https://www.iiap.res.in/?q=muthu"> C.Muthumariappan <a/> and <a href="https://ph.iitr.ac.in/~PH/moumifph">Prof. Moumita Maiti </a> as co-supervisor. 
+    <p align="justify">
+      Stellar evolution unfolds as stars undergo mesmerizing transformations, from birth in nebulous nurseries to dazzling supernova finales. Gravity, Nuclear fusion, and cosmic ballets orchestrate these awe-inspiring celestial narratives, revealing nature's sublime intricacies. The work is to understand one of such dramatic dance which begins at the Asymptotic Giant Branch evoltuionary stage, (<a href="https://www.bristol.ac.uk/physics/research/astrophysics/areas/stellar-structure-and-nucleosynthesis/" target="__blank"> read </a>). As by earlier works, the movemet was thought to go in linear order from Wolf-Rayets(<a href="https://lweb.cfa.harvard.edu/~pberlind/atlas/htmls/wrstars.html" target="__blank"> read </a>) --> <i> Wels</i>(<a href="https://iopscience.iop.org/article/10.1086/375908" target="__blank"> read </a>) --> PG-1159 (<a href="https://link.springer.com/chapter/10.1007/3-540-55256-1_321" target="__blank"> read </a>). This all changed, work by C Muthumariappan and M Parthasarathy
+, "Infrared properties of planetary nebulae with [WR] and wels central stars" (<a href="http://dx.doi.org/10.1093/mnras/staa217"> read </a>) showed that [WR] and <i> Wels</i> have same family tree but are two different children. This brought the question for PG-1159. My work is about trying to answer what contribute to evolution of PG-1159. How much WR, Wels contribute to PG-1159. During the work, I figured that some of both contribute to PG-1159. Based on the work done at the time, it is likely that PG 1159 stars are descendants of hydrogen deficient [WR]s. However, the case of Wels needs to be clarified.
+    </p>
+    <u> Relevant Publication</u>: <b> Vanshaj Kerni</b>, "Analysing the evolutionary connection of Central Stars Planetary Nebulae of [WR], wels and PG-1159". Thesis defended successfully on June 2023. Read at: <a href="http://dx.doi.org/10.13140/RG.2.2.10403.22563"> http://dx.doi.org/10.13140/RG.2.2.10403.22563 </a>
+</div>
+<hr>
+
+<hr>
+<div>
+    <h5><b>Dark Matter and Cosmology</b></h5>(Mentor: <a href="https://www.ststephens.edu/department-of-physics/dr-geetanjali-sethi/">Dr.Geetanjali Sethi</a>) 
     <p align="justify">
        The large-scale structure of the universe on a scale less than 100 Mpc consists of a network of overdense and underdense regions. Their evolution depends on the initial conditions and content of dark energy, studying them is valuable in constraining the cosmological parameters. Underdensities, or cosmic voids, especially provide reliable testing grounds for large-scale structure formation, cosmological parameters, and dark energy. In our work, the evolution of an isolated spherical underdense region in a homogeneous, expanding background is studied for different dark energy models. We start with reviewing the evolution for an Einstein-de Sitter cosmology and then adding additional models in the accerlation equaiton. Throughout the work, we assumed the initial density profile to be an inverse-top-hat and the density contrast is set to delta=-0.8, as taken by <a href="https://arxiv.org/pdf/1605.05286.pdf">previous studies</a>. <br/>
+
+      <u>Relevant publication</u>: <b> Vanshaj Kerni </b> Julie Jacob Thomas, Geetanjali Sethi, <i> "The spherical evolution of cosmic voids in Chaplygin gas dark energy models". </i> at 40th Meeting of the Astronomical Society of India held at Indian Institute of Technology Roorkee.
     </p>
 </div>
 <hr>
@@ -23,7 +37,7 @@ nav: true
 <div>
    <h5><b>Fluid flow in microsize channels</b></h5>(<i>ongoing</i>, Mentor: <a href="https://www.iitr.ac.in/~MA/Ameeya__Kumar_Nayak">Prof. Ameeya K. Nayak</a>) 
    <p align="justify">
-     Microfluidic technology has seen a tremendous growth in past couple of years. The reason being its coverage in manipulating fluid and species flow in small volumes. Research on new materials have given a new boost to such domains and now such devices are becoming common in diagnostics due to their long-range benefits. These devices are inexpensive, portable, and disposable, thus highly useful in health care systems. These are now becoming popular in research and clinical applications, including biosensing, drug development, and chemical synthesis. Clinical application useage such as <a href="https://www.mdpi.com/2306-5354/8/7/94/pdf#:~:text=The%20standard%20separation%20process%20is,into%20the%20microfluidic%20sensing%20platform.">plasma seperation</a> are essentially dependent on proper understanding of blood flow in the micro domains. </p> <p>Theoretical models on blood flow have highlighted the impact of arterial diameter to blood flow. However, only a few actual testing of these ideas have been recorded. A systematic study on factors characterising essential attributes of the blood is still lacking in the field despite their tremendous applications in the health care systems. Our work considers an incompressible Navier Stokes equations with a power-law model to study blood flow velocity in two dimensions. We modelled the stenosed section as a simple compression and expansion region in a rectangular capillary. Our work, an expansion of <a href="https://pubmed.ncbi.nlm.nih.gov/23856409/">previous works</a>, has obtained important dependence among such factors.
+     Microfluidic technology has seen a tremendous growth in past couple of years. The reason being its coverage in manipulating fluid and species flow in small volumes. Research on new materials have given a new boost to such domains and now such devices are becoming common in diagnostics due to their long-range benefits. These devices are inexpensive, portable, and disposable, thus highly useful in health care systems. These are now becoming popular in research and clinical applications, including biosensing, drug development, and chemical synthesis. Clinical application useage such as <a href="https://www.mdpi.com/2306-5354/8/7/94/pdf#:~:text=The%20standard%20separation%20process%20is,into%20the%20microfluidic%20sensing%20platform.">plasma seperation</a> are essentially dependent on proper understanding of blood flow in the micro domains. </p> <p>Theoretical models on blood flow have highlighted the impact of arterial diameter to blood flow. However, only a few actual testing of these ideas have been recorded. A systematic study on factors characterising essential attributes of the blood is still lacking in the field despite their tremendous applications in the health care systems. Our work considers an incompressible Navier Stokes equations with a power-law model to study blood flow velocity in tw-o dimensions. We modelled the stenosed section as a simple compression and expansion region in a rectangular capillary. Our work, an expansion of <a href="https://pubmed.ncbi.nlm.nih.gov/23856409/">previous works</a>, has obtained important dependence among such factors.
     </p>
      <p>
       <u>Relevant publication</u>: <b> Vanshaj Kerni </b>, M.Majhi, A.K.Nayak - <i>Flow characteristics and platelet adhesion of blood flow in a corrugated microchannel with the reduction and extension of shear effects. </i> <br>Procedings of the 26th National & 4th International ISHMT-ASTFE Heat and Mass Transfer. <a href="http://dx.doi.org/10.1615/IHMTC-2021.1110">Conference Paper</a>
