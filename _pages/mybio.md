@@ -11,11 +11,11 @@ profile:
 ---
 <div id="bio_anim">
 
-  <p class="header-bar" style="font-family:Dancing Script, cursive">
+  <p class="header-bar" style="font-family:Times New Roman">
       I was born in the small town of <a href="https://udhampur.nic.in/tourist-places/">Udhampur</a> in Jammu and Kashmir, where I spent my early school days learning and playing with friends. My family then moved to the <a href="https://jammu.nic.in/">city of Jammu</a>, where I did my high school and cleared the IIT exam. I was always curious about our meaning in the universe; science shows were my all-time favourite and led me to my current interests in physics, astrophysics, and space technology. I love to watch movies, with Interstellar being on top of my list and a MCU fan. My other interests is in music—I am a beginner flautist with a photographer inside me. I also like hiking, travelling and eating new dishes.</p>
   <h5 style="text-align:center"> Research Interests: </h5>
   <p> 
-    My interest is in astrophysics, applied mathematics and quantum computing. Also interested in applied maths, numerical simulations, machine learning and observations. <p  style="font-family:Dancing Script, cursive"> As side interests, I love to read about quantum information in context to biology, role of quantum mechanics in living systems. I sometimes think on the possibilty of life beyound earth, and has written a medium article about the possibility.
+    My interest is in astrophysics, applied mathematics and quantum computing. Also interested in applied maths, numerical simulations, machine learning and observations. <p  style="font-family:Times New Roman"> As side interests, I love to read about quantum information in context to biology, role of quantum mechanics in living systems. I sometimes think on the possibilty of life beyound earth, and has written a medium article about the possibility.
   </p>
 
     <div class="col-sm-7  mt-3 mt-md-0">
