@@ -21,7 +21,6 @@ nav: true
     </p>
     <u> Relevant Publication</u>: <b> Vanshaj Kerni</b>, "Analysing the evolutionary connection of Central Stars Planetary Nebulae of [WR], wels and PG-1159". Thesis defended successfully on June 2023. Read at: <a href="http://dx.doi.org/10.13140/RG.2.2.10403.22563"> http://dx.doi.org/10.13140/RG.2.2.10403.22563 </a>
 </div>
-<hr>
 
 <hr>
 <div>
