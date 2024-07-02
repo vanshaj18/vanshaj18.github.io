@@ -22,13 +22,14 @@ Hello! नमस्ते
 <br>
 
 <p>
-  I am Vanshaj Kerni, a graduate student from the Indian Institute of Technology (IIT) Roorkee, India, with a master's in physics. I am awardee of the department's gold medal for highest CGPA, member of the Indian Physics Association, Astronomical Society of India, American Physical Society and a legacy member of Indian Pulsar Timing Array. Currently, I work as Junior Research Scientist at Foilum Labs, Bangalore, working in Ethereum Blockchain.
-  <blockquote> 
+  I am Vanshaj Kerni, a MS Physics graduate from the Indian Institute of Technology Roorkee with thesis in Astronomy from the Indian Institute of Astrophysics, Bangalore. I am an awardee of the department's gold medal for highest CGPA, current student member of the Indian Physics Association (IPA), Astronomical Society of India (ASI), American Physical Society (APS) and a legacy member of Indian Pulsar Timing Array Consortium. These days, I am working as a Junior Research Scientist at Foilum Labs, Bangalore. Working in a collaborative space on a big project the goal is to create a universal layer 2 (L2) for blockchains. The work is quite exciting learning about blockchain, bitcoin, ethereum and mathematics governing the security of it. 
+<blockquote> 
   If you wish to make an apple pie from scratch, you must first invent the universe. ― Carl Sagan
 </blockquote>
-Robert Frost's poetic musings is the compass guiding my journey. Choosing a path uncharted, I diverged from the well-trodden roads of engineering and medicine, embarking instead on a voyage fueled by my passion for physics. Today, I find myself navigating the realms of astrophysics and blockchain research, a testament to the divergent choices that shape our destinies. 
-</p>
 
+Robert Frost's poetic musings is the compass guiding my journey. Travelling into uncharted space, I diverged from the well-stepped roads of engineering and medicine, embarking instead on a voyage fueled by my passion for physics. Today, I find myself navigating the realms of astrophysics and blockchain research, a testament to the divergent choices that shape our destinies. 
+</p>
+<br>
 <div class="row justify-content-sm">
     <div class="col-sm-6  mt-3 mt-md-0">
         {% include figure.html path="assets/img/iitr.jpg" title="IIT Roorkee" class="img-fluid rounded z-depth-1" %}
