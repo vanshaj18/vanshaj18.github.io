@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-21
+date: 2023-05-22
 inline: true
 ---
-<p> Graduated in Physics with a Masters. Gold Medal Awardee </p>
+<p> Started as Junior Research Scientist at <a href="https://foliumlabs.net"> Folium Labs </a> </p>
